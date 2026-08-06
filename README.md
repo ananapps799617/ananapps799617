@@ -26,17 +26,12 @@ Bienvenido a la página oficial de **AnAnApps** en GitHub. Somos un estudio de d
 ### 🏗️ 2. Control de Obras
 > **Sistema de gestión integral para la administración y seguimiento de proyectos de construcción.**
 - **Tech Stack**: Mobile App, Backend en la Nube.
-- **Características**: Monitoreo de avances, gestión de personal y materiales, reportes diarios.
+- **Características**: Monitoreo de avances, gestión de personal y materiales, reportes diarios. *(Evolución oficial y legado mejorado de RenovaHaus App)*.
 
 ### 💰 3. Finanzas Familiares
 > **Plataforma para el control financiero, presupuesto y analítica de gastos en el hogar.**
 - **Tech Stack**: Mobile App & Cloud Sync.
 - **Características**: Registro de ingresos/egresos, metas de ahorro y reportes visuales de presupuestos.
-
-### 🏠 4. RenovaHaus App
-> **Aplicación para la gestión de proyectos de remodelación y diseño de espacios.**
-- **Tech Stack**: Cross-platform App.
-- **Características**: Catálogo de proyectos, presupuestos interactivos y seguimiento de entregables.
 
 ---
 
