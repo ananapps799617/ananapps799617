@@ -57,14 +57,16 @@ Bienvenido al perfil oficial de **AnAnApps** en GitHub. Somos un estudio de desa
   - Alertas preventivas automáticas de vencimiento y cálculo de consumo óptimo.
   - Interfaz moderna, reactiva y fluida construida en Jetpack Compose.
 
-### 🏗️ 4. Control de Obras
-> **Sistema Web integral para la administración, supervisión y seguimiento de proyectos de construcción.**
-- **Tipo:** Aplicación Web (Single Page Application - SPA / PWA).
-- **Tech Stack:** React 18, TypeScript, Vite, Lucide Icons, Firebase Firestore / Hosting.
+### 🏗️ 4. Control de Obras (Open Source • Proyecto Pausado)
+> **Plataforma Integral de Gestión de Obras, Finanzas y Despiece 3D liberada bajo Licencia MIT.**
+- **Estado:** ⏸️ **Pausado & Open Source** — Proyecto congelado y disponible públicamente para cualquier desarrollador, taller o empresa de construcción que desee usarlo, bifurcarlo (Fork) o continuar su desarrollo.
+- **Repositorio:** [ananapps799617/control-de-obras](https://github.com/ananapps799617/control-de-obras)
+- **Tipo:** Aplicación Web Progresiva (SPA / PWA).
+- **Tech Stack:** React 18, TypeScript 5, Vite, Three.js (Visor 3D y despiece paramétrico), Tailwind CSS, Firebase Firestore.
 - **Características Clave:**
-  - Monitoreo de avances físicos y financieros de obra en tiempo real.
-  - Gestión centralizada de personal, proveedores, compras y materiales.
-  - Paneles administrativos analíticos con reportes gráficos ejecutivos *(Evolución oficial de RenovaHaus)*.
+  - Presupuestos, control de compras globales, abonos y balance financiero de obra en tiempo real.
+  - Diseñador paramétrico 3D de gabinetes y módulos con cálculo de mecanizados y optimización de corte.
+  - Gestión integral de clientes, proveedores, cuadrillas de trabajo y bitácora fotográfica de obra.
 
 ### 💳 5. Finanzas Familiares
 > **Plataforma Multiplataforma para el control presupuestario y analítica financiera personal y del hogar.**
