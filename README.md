@@ -1,217 +1,218 @@
-<!-- AnAnApps · Official Profile README · Futuristic Cyber-Studio Edition -->
+<!-- AnAnApps · Official Profile README · Propuesta B Oceano Profundo -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e14,40:111827,80:064e3b,100:10b981&height=220&section=header&text=AnAnApps&fontSize=68&fontColor=e8fff6&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20DIGITAL%20EXPERIENCES%20%E2%80%A2%20ECOSISTEMA%20v2.0&descAlignY=60&descSize=13&stroke=00e5ff&strokeWidth=1" width="100%" alt="AnAnApps — Engineering Digital Experiences"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:2563EB,100:14B8A6&height=230&section=header&text=AnAnApps&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=ENGINEERING%20DIGITAL%20EXPERIENCES&descAlignY=58&descSize=15" width="100%" alt="AnAnApps"/>
 
 <a href="https://github.com/ananapps799617">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Estudio+independiente+de+ingenier%C3%ADa+de+software+%E2%9A%A1;%3E+Android+Nativo+%7C+Compose+Multiplatform+%7C+Web+PWA+%7C+Windows;%3E+Arquitectura+limpia+%2B+SSOT+%2B+Firebase+Serverless;%3E+Construido+con+intenci%C3%B3n.+Dise%C3%B1ado+para+evolucionar.+%F0%9F%9A%80" alt="Terminal Typing Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=14B8A6&center=true&vCenter=true&width=720&lines=%3E+Estudio+independiente+de+software+%E2%9A%A1;%3E+Android+%7C+Multiplataforma+%7C+Web+PWA+%7C+Windows;%3E+De+la+idea+a+producci%C3%B3n+en+fases+controladas;%3E+Construido+con+intenci%C3%B3n.+%F0%9F%9A%80" alt="Typing"/>
 </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SISTEMA-EN_L%C3%8DNEA-00e5ff?style=for-the-badge&labelColor=0b0e14" alt="Sistema en línea"/>
-  <img src="https://img.shields.io/badge/UBICACI%C3%93N-ZIPAQUIR%C3%81%2C_COLOMBIA-10b981?style=for-the-badge&labelColor=0b0e14" alt="Zipaquirá, Colombia"/>
-  <img src="https://img.shields.io/badge/STACK-KOTLIN_%7C_REACT_%7C_KMP-7f52ff?style=for-the-badge&labelColor=0b0e14" alt="Stack Base"/>
+<p>
+  <img src="https://img.shields.io/badge/SISTEMA-EN_L%C3%8DNEA-14B8A6?style=for-the-badge&labelColor=071426" alt="En línea"/>
+  <img src="https://img.shields.io/badge/PROYECTOS_ACTIVOS-5-2563EB?style=for-the-badge&labelColor=071426" alt="Proyectos"/>
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-1-FACC15?style=for-the-badge&labelColor=071426" alt="Open Source"/>
+  <img src="https://komarev.com/ghpvc/?username=ananapps799617&label=VISITAS&color=2563EB&style=for-the-badge" alt="Visitas"/>
+</p>
+
+<p>
+  <a href="#-quiénes-somos"><b>Quiénes somos</b></a> •
+  <a href="#-mapa-de-fases"><b>Mapa de fases</b></a> •
+  <a href="#-proyectos"><b>Proyectos</b></a> •
+  <a href="#-herramientas"><b>Herramientas</b></a> •
+  <a href="#-actividad"><b>Actividad</b></a> •
+  <a href="#-contacto"><b>Contacto</b></a>
 </p>
 
 </div>
 
 ---
 
-## 🛰️ `> telemetria.nucleo`
+## 🛰️ Quiénes somos
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  ESTUDIO      : AnAnApps (Estudio de Software e Innovación Digital)     │
-│  PLATAFORMAS  : Web SPA/PWA · Android Nativo · Windows Desktop · KMP   │
-│  ARQUITECTURA : Clean Architecture · SSOT (Room SQLite) · Modular Feature │
-│  ENFOQUE      : Productos útiles, telemetría real y evolución continua │
-│  ECOSISTEMA   : AnAnApps Core Engine v2.0                              │
-└────────────────────────────────────────────────────────────────────────┘
+**AnAnApps** es un estudio independiente de desarrollo de software con base en Zipaquirá, Colombia 🇨🇴. Creamos productos digitales para **Android nativo, multiplataforma (KMP), Web PWA y Windows**.
+
+Cada producto avanza por un ciclo de fases controladas: **Incubación → Testing → Producción**, con revisión de calidad en cada paso.
+
+<details>
+<summary><b>⚙️ Nuestra forma de trabajar</b></summary>
+<br/>
+
+| Principio | En la práctica |
+|---|---|
+| 🎯 **Propósito** | Resolver problemas reales y concretos |
+| 🧱 **Ingeniería** | Clean Architecture, fuente única de verdad (SSOT), tipado estricto |
+| 🎨 **Experiencia** | Interfaces claras, consistentes y pensadas para móvil |
+| ✅ **Calidad** | Cero datos simulados: cada pantalla conectada a funcionalidad real |
+| 🔐 **Seguridad** | Cero secretos en el código, reglas Zero-Trust en la nube |
+
+</details>
+
+---
+
+## 🗺️ Mapa de fases
+
+```mermaid
+flowchart LR
+    I["🥚 INCUBACIÓN"] --> T["🧪 TESTING"] --> P["🚀 PRODUCCIÓN"]
+    I -.- FF["💳 Finanzas Familiares"]
+    I -.- AV["📦 Alacena Virtual"]
+    T -.- KM["🚗 KiloMeta"]
+    T -.- AS["🎓 AnAnStudy"]
+    T -.- AM["🎵 AnAnMusic"]
+    OS["🔓 OPEN SOURCE"] -.- CO["🏗️ Control de Obras"]
+    style I fill:#FB923C,color:#000,stroke:#FB923C
+    style T fill:#38BDF8,color:#000,stroke:#38BDF8
+    style P fill:#34D399,color:#000,stroke:#34D399
+    style OS fill:#FACC15,color:#000,stroke:#FACC15
 ```
 
+| Proyecto | Fase | Plataforma | Repositorio |
+|---|---|---|---|
+| 🚗 **KiloMeta** | ![](https://img.shields.io/badge/TESTING-38BDF8?style=flat-square) | Android nativo | 🔒 Privado |
+| 🎓 **AnAnStudy** | ![](https://img.shields.io/badge/TESTING-38BDF8?style=flat-square) | Web PWA | 🔒 Privado |
+| 🎵 **AnAnMusic** | ![](https://img.shields.io/badge/TESTING-38BDF8?style=flat-square) | Android nativo | 🔒 Privado |
+| 💳 **Finanzas Familiares** | ![](https://img.shields.io/badge/INCUBACI%C3%93N-FB923C?style=flat-square) | Android + Windows | ⏳ Próximamente |
+| 📦 **Alacena Virtual** | ![](https://img.shields.io/badge/INCUBACI%C3%93N-FB923C?style=flat-square) | Android nativo | 🌐 [Público](https://github.com/ananapps799617/alacena-virtual-android) |
+| 🏗️ **Control de Obras** | ![](https://img.shields.io/badge/OPEN_SOURCE-FACC15?style=flat-square) | Web PWA | 🌐 [Público · MIT](https://github.com/ananapps799617/control-de-obras) |
+
 ---
 
-## 🧭 Centro de Mando · Portafolio de Proyectos
+## 🧭 Proyectos
 
-> 👇 **Haz clic en cada módulo para desplegar la ficha técnica, arquitectura y capacidades.**
+> 👇 Haz clic en cada proyecto para ver su ficha técnica.
 
 <details>
-<summary><b>🚗 &nbsp;KiloMeta</b> &nbsp;·&nbsp; <i>Plataforma operativa y financiera para conductores</i></summary>
+<summary><b>🚗 KiloMeta</b> · Gestión operativa y financiera para conductores</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/FASE-02_TESTING-38bdf8?style=flat-square&logo=gitbook&logoColor=white" alt="Fase Testing"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-ANDROID_NATIVO-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/CORE-KOTLIN_2.x-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-PROYECTO_PRIVADO-f43f5e?style=flat-square&logo=githubactions&logoColor=white" alt="Privado"/>
-</p>
+![](https://img.shields.io/badge/FASE-TESTING-38BDF8?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Kotlin_2.x-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-Aplicación móvil nativa diseñada para centralizar telemetría, contabilidad y recorridos de socios conductores sin distracciones al volante.
+Aplicación nativa para socios conductores: turnos, recorridos y finanzas en un solo lugar.
 
-- **Tech Stack:** Jetpack Compose · Clean Architecture · Hilt · Room SQLite v6 (SSOT) · OSMDroid Nativo · Cloud Firestore · In-App OTA Update Engine.
-- **Doble Bolsillo:** Modelo contable segregado por app de transporte (Uber, DiDi, inDrive) con operación estricta en Pesos Colombianos ($ COP).
-- **Telemetría Inteligente:** Control odómetro de turnos estilo Drivvo, costos por kilómetro y combustible real.
-- **Resiliencia Extrema:** Protocolo anti-zombie con lápidas locales y purga bidireccional atómica contra Firestore.
+- **Stack:** Jetpack Compose · Clean Architecture · Hilt · Room (SSOT) · OSMDroid · Firestore · OTA In-App
+- **Doble bolsillo:** balance separado por plataforma (Uber, DiDi, inDrive) en pesos colombianos
+- **Telemetría:** odómetro inteligente, turnos y control real de combustible
+- **Resiliencia:** sincronización bidireccional con protección anti-registros fantasma
 
 </details>
 
 <details>
-<summary><b>🎓 &nbsp;AnAnStudy PWA</b> &nbsp;·&nbsp; <i>Gestión académica y aprendizaje acelerado con IA</i></summary>
+<summary><b>🎓 AnAnStudy</b> · Aprendizaje acelerado con IA</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/FASE-02_TESTING-38bdf8?style=flat-square&logo=gitbook&logoColor=white" alt="Fase Testing"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-WEB_PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
-  <img src="https://img.shields.io/badge/CORE-REACT_18_+_TS-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="React TS"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-PROYECTO_PRIVADO-f43f5e?style=flat-square&logo=githubactions&logoColor=white" alt="Privado"/>
-</p>
+![](https://img.shields.io/badge/FASE-TESTING-38BDF8?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![](https://img.shields.io/badge/React_+_TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Plataforma Web Progresiva instalable enfocada en el alto rendimiento académico y retención de memoria a largo plazo.
+Aplicación web instalable para estudiar mejor y recordar más.
 
-- **Tech Stack:** React 18 · TypeScript · Vite · Groq AI (Qwen LLM) · Algoritmo SM-2 · Cloud Firestore · Discord API Webhooks.
-- **Repetición Espaciada:** Sistema algorítmico adaptativo SuperMemo-2 (SM-2) para retención óptima de conceptos.
-- **Tutoría Inteligente:** Generación automatizada de flashcards y explicaciones contextuales asistidas por IA.
-- **Omnipresencia:** 100% operable offline e instalable de forma nativa en móviles y escritorios.
+- **Stack:** React 18 · TypeScript · Vite · Groq AI · Firestore · Discord Webhooks
+- **Repetición espaciada:** algoritmo SM-2 para memoria a largo plazo
+- **Tutor IA:** generación de flashcards y explicaciones contextuales
+- **Offline:** funciona sin conexión e instalable en cualquier dispositivo
 
 </details>
 
 <details>
-<summary><b>🎵 &nbsp;AnAnMusic Android</b> &nbsp;·&nbsp; <i>Reproductor y ecosistema musical inteligente</i></summary>
+<summary><b>🎵 AnAnMusic</b> · Música en Android</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/FASE-02_TESTING-38bdf8?style=flat-square&logo=gitbook&logoColor=white" alt="Fase Testing"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-ANDROID_NATIVO-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/CORE-KOTLIN_+_COMPOSE-7F52FF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-PROYECTO_PRIVADO-f43f5e?style=flat-square&logo=githubactions&logoColor=white" alt="Privado"/>
-</p>
+![](https://img.shields.io/badge/FASE-TESTING-38BDF8?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-Solución auditiva nativa diseñada para reproducción ininterrumpida con consumo ultra-eficiente de batería y recursos locales.
+Aplicación musical nativa para Android, actualmente en fase de pruebas.
 
-- **Tech Stack:** Kotlin · Jetpack Compose · Media3 ExoPlayer · Room Database · Clean Architecture.
-- **Experiencia de Usuario:** Interfaz moderna y minimalista adaptada a gestos rápidos y control en segundo plano.
-- **Biblioteca Local & Nube:** Sincronización inteligente de metadatos de audio y ecualización paramétrica.
+- **Plataforma:** Android nativo
+- **Estado:** en pruebas internas · más detalles próximamente
 
 </details>
 
 <details>
-<summary><b>💳 &nbsp;Finanzas Familiares</b> &nbsp;·&nbsp; <i>Presupuesto personal y del hogar Multiplataforma</i></summary>
+<summary><b>💳 Finanzas Familiares</b> · Presupuesto del hogar en Android y Windows</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/FASE-01_INCUBACI%C3%93N-eab308?style=flat-square&logo=gitbook&logoColor=white" alt="Fase Incubación"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-ANDROID_+_WINDOWS-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Android Windows"/>
-  <img src="https://img.shields.io/badge/CORE-COMPOSE_MULTIPLATFORM-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="KMP"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-PROYECTO_PRIVADO-f43f5e?style=flat-square&logo=githubactions&logoColor=white" alt="Privado"/>
-</p>
+![](https://img.shields.io/badge/FASE-INCUBACI%C3%93N-FB923C?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-Plataforma multiplataforma nativa para la administración patrimonial, proyección presupuestaria y disciplina financiera familiar.
+Un solo núcleo de código ejecutándose como `.apk` en Android y `.exe` en Windows.
 
-- **Tech Stack:** Kotlin Multiplatform (KMP) · Compose Multiplatform · Room KMP · Material Design 3.
-- **Código Unificado:** Un único núcleo de lógica compartida ejecutándose de manera nativa en Windows (`.exe`) y Android (`.apk`).
-- **Control Presupuestario:** Matriz de flujo de caja, control de gastos fijos vs. variables y metas de ahorro progresivas.
+- **Stack:** Kotlin Multiplatform · Compose Multiplatform · Room KMP · Material 3
+- **Funciones:** ingresos, gastos, categorías y metas de ahorro
 
 </details>
 
 <details>
-<summary><b>📦 &nbsp;Alacena Virtual Kotlin</b> &nbsp;·&nbsp; <i>Control inteligente de despensa y consumo familiar</i></summary>
+<summary><b>📦 Alacena Virtual</b> · Inventario doméstico inteligente</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/FASE-01_INCUBACI%C3%93N-eab308?style=flat-square&logo=gitbook&logoColor=white" alt="Fase Incubación"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-ANDROID_NATIVO-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/CORE-KOTLIN_+_COMPOSE-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Compose"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-C%C3%93DIGO_P%C3%9ABLICO-10b981?style=flat-square&logo=github&logoColor=white" alt="Público"/>
-</p>
+![](https://img.shields.io/badge/FASE-INCUBACI%C3%93N-FB923C?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-Asistente móvil para la gestión de suministros domésticos, erradicación de desperdicio y planificación de compras.
+Organiza la despensa del hogar y evita desperdicios.
 
-- **Tech Stack:** Kotlin · Jetpack Compose · Android Architecture Components · Room SQLite · Firebase.
-- **Monitoreo Preventivo:** Semáforo de fechas de vencimiento y cálculo automático de frecuencia de consumo.
-- **Escaneo Rápido:** Digitalización y categorización ágil de ítems de despensa.
+- **Stack:** Kotlin · Jetpack Compose · Room · Firebase
+- **Funciones:** inventario, alertas de vencimiento y consumo
+
+👉 [**Ver repositorio**](https://github.com/ananapps799617/alacena-virtual-android)
 
 </details>
 
 <details>
-<summary><b>🏗️ &nbsp;Control de Obras</b> &nbsp;·&nbsp; <i>Gestión de construcción, finanzas y despiece 3D</i></summary>
+<summary><b>🏗️ Control de Obras</b> · Open Source · Gestión de obras y diseño 3D</summary>
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/ESTADO-PAUSADO_%E2%80%A2_OPEN_SOURCE-f97316?style=flat-square&logo=open-access&logoColor=white" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/LICENCIA-MIT-10b981?style=flat-square" alt="MIT License"/>
-  <img src="https://img.shields.io/badge/PLATAFORMA-WEB_PWA-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React PWA"/>
-  <img src="https://img.shields.io/badge/VISIBILIDAD-REPOSITORIO_P%C3%9ABLICO-10b981?style=flat-square&logo=github&logoColor=white" alt="Público"/>
-</p>
+![](https://img.shields.io/badge/PAUSADO_%C2%B7_OPEN_SOURCE-FACC15?style=flat-square&labelColor=071426) ![](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square) ![](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 
-Plataforma integral madurada a lo largo de 92 órdenes de desarrollo. Actualmente congelada y liberada para que contratistas, talleres o desarrolladores la continúen o adapten a sus requerimientos.
+Madurado en 92 órdenes de desarrollo y liberado para que cualquiera lo use, lo bifurque o lo continúe.
 
-- **Tech Stack:** React 18 · TypeScript 5 · Vite · Three.js (Motor 3D) · Tailwind CSS · Firebase Firestore.
-- **Módulos Clave:** Presupuestos dinámicos, compras globales, abonos, nómina y balance financiero de obra en tiempo real.
-- **Diseñador Paramétrico 3D:** Modelado tridimensional de mobiliario, mecanizados y optimización de listas de corte.
+- **Stack:** React 18 · TypeScript 5 · Vite · Three.js · Tailwind · Firestore
+- **Funciones:** presupuestos, compras, abonos, balance y diseñador 3D paramétrico con optimización de corte
 
-👉 [**Explorar Repositorio en GitHub (ananapps799617/control-de-obras)**](https://github.com/ananapps799617/control-de-obras)
+👉 [**Ver repositorio**](https://github.com/ananapps799617/control-de-obras)
 
 </details>
 
 ---
 
-## 🧰 Microservicios & Herramientas de Soporte
+## 🧰 Herramientas
 
-| Herramienta | Especialidad Operativa |
+| Herramienta | Función |
 |---|---|
-| 📸 **Capturador de Evidencia Visual** | Microherramienta headless para captura dual (Mobile + Desktop) y auditoría visual de UI/UX en vivo. |
-| ☁️ **Sync Drive API & OTA Publisher** | Publicador universal de APKs a Google Drive y sincronizador documental MD5 en la nube. |
-| 🛡️ **Git & GitHub Manager** | Control estricto de ramas de desarrollo, commits semánticos y aislamiento de repositorios. |
+| 📸 **Capturador de Evidencia Visual** | Capturas duales (móvil + escritorio) para auditoría de interfaz |
+| ☁️ **Sync Drive API** | Publicación OTA de APKs y respaldo documental en Google Drive |
+| 🛡️ **Git & GitHub Manager** | Control de versiones, ramas y despliegues |
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Arsenal tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,vite,firebase,sqlite,tailwind,threejs,discord,git,github&theme=dark" alt="Tech Skills"/>
-</p>
-
-<p align="center">
-  <code>Jetpack Compose</code> &nbsp;•&nbsp; 
-  <code>Compose Multiplatform (KMP)</code> &nbsp;•&nbsp; 
-  <code>Room SQLite v6</code> &nbsp;•&nbsp; 
-  <code>Clean Architecture</code> &nbsp;•&nbsp; 
-  <code>Hilt DI</code> &nbsp;•&nbsp; 
-  <code>Groq AI (Qwen)</code>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,vite,firebase,sqlite,tailwind,threejs,discord,git,github&theme=dark" alt="Tecnologías"/>
 </p>
 
 ---
 
-## 📈 Telemetría de Actividad
+## 📈 Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananapps799617&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=10B981&icon_color=00E5FF&text_color=CBD5E1" width="100%" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananapps799617&show_icons=true&hide_border=true&bg_color=071426&title_color=2563EB&icon_color=14B8A6&text_color=E2E8F0" width="49%" alt="Estadísticas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananapps799617&hide_border=true&background=071426&ring=2563EB&fire=FACC15&currStreakLabel=14B8A6&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="Racha"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananapps799617&layout=compact&hide_border=true&bg_color=0B0E14&title_color=10B981&text_color=CBD5E1" width="100%" alt="Lenguajes más utilizados"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ananapps799617&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="Trofeos"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananapps799617&bg_color=071426&color=14B8A6&line=2563EB&point=FACC15&area=true&hide_border=true" width="100%" alt="Gráfico de actividad"/>
 </div>
 
 ---
 
-## 📡 Contacto & Canales Oficiales
+## 📡 Contacto
 
 <div align="center">
 
-  <p><b>¿Interesado en colaborar, consultar o explorar nuestras soluciones?</b></p>
+**¿Tienes una idea o propuesta de colaboración?**
 
-  <a href="mailto:ananapps.soporte@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACTAR-ananapps.soporte@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ananapps799617">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-GITHUB_PROFILE-0B0E14?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Profile"/>
-  </a>
+<a href="mailto:ananapps.soporte@gmail.com"><img src="https://img.shields.io/badge/ESCR%C3%8DBENOS-ananapps.soporte@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 
-  <br/><br/>
-  <p>📍 Zipaquirá, Colombia &nbsp;•&nbsp; 🧬 <b>Ecosistema AnAnApps v2.0</b></p>
+📍 Zipaquirá, Colombia · 🧬 **Ecosistema AnAnApps v2.0**
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,40:064e3b,80:111827,100:0b0e14&height=110&section=footer" width="100%" alt="Footer Wave"/>
-  <br/>
-  <sub><em>Construido con intención. Diseñado para evolucionar.</em></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:071426&height=110&section=footer" width="100%" alt="Footer"/>
+
+<sub><em>Construido con intención. Diseñado para evolucionar.</em></sub>
 
 </div>
