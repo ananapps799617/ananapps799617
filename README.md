@@ -52,29 +52,24 @@ Cada producto avanza por un ciclo de fases controladas: **Incubación → Testin
 
 ## 🗺️ Mapa de fases
 
-```mermaid
-flowchart LR
-    I["🥚 INCUBACIÓN"] --> T["🧪 TESTING"] --> P["🚀 PRODUCCIÓN"]
-    I -.- FF["💳 Finanzas Familiares"]
-    I -.- AV["📦 Alacena Virtual"]
-    T -.- KM["🚗 KiloMeta"]
-    T -.- AS["🎓 AnAnStudy"]
-    T -.- AM["🎵 AnAnMusic"]
-    OS["🔓 OPEN SOURCE"] -.- CO["🏗️ Control de Obras"]
-    style I fill:#FACC15,color:#000,stroke:#FACC15
-    style T fill:#22D3EE,color:#000,stroke:#22D3EE
-    style P fill:#4ADE80,color:#000,stroke:#4ADE80
-    style OS fill:#F472B6,color:#000,stroke:#F472B6
-```
+> Todo proyecto nace en **Incubación**, se prueba en **Testing** y llega a **Producción**.
 
-| Proyecto | Fase | Plataforma | Repositorio |
-|---|---|---|---|
-| 🚗 **KiloMeta** | ![](https://img.shields.io/badge/TESTING-22D3EE?style=flat-square) | Android nativo | 🔒 Privado |
-| 🎓 **AnAnStudy** | ![](https://img.shields.io/badge/TESTING-22D3EE?style=flat-square) | Web PWA | 🔒 Privado |
-| 🎵 **AnAnMusic** | ![](https://img.shields.io/badge/TESTING-22D3EE?style=flat-square) | Android nativo | 🔒 Privado |
-| 💳 **Finanzas Familiares** | ![](https://img.shields.io/badge/INCUBACI%C3%93N-FACC15?style=flat-square) | Android + Windows | ⏳ Próximamente |
-| 📦 **Alacena Virtual** | ![](https://img.shields.io/badge/INCUBACI%C3%93N-FACC15?style=flat-square) | Android nativo | 🌐 [Público](https://github.com/ananapps799617/alacena-virtual-android) |
-| 🏗️ **Control de Obras** | ![](https://img.shields.io/badge/OPEN_SOURCE-F472B6?style=flat-square) | Web PWA | 🌐 [Público · MIT](https://github.com/ananapps799617/control-de-obras) |
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥚_INCUBACIÓN-FACC15?style=for-the-badge" alt="Incubación"/> ➜ <img src="https://img.shields.io/badge/🧪_TESTING-22D3EE?style=for-the-badge" alt="Testing"/> ➜ <img src="https://img.shields.io/badge/🚀_PRODUCCIÓN-4ADE80?style=for-the-badge" alt="Producción"/>
+
+</div>
+
+| Proyecto | Fase | Repo |
+|---|---|---|
+| 🚗 **KiloMeta** | 🧪 Testing | 🔒 |
+| 🎓 **AnAnStudy** | 🧪 Testing | 🔒 |
+| 🎵 **AnAnMusic** | 🧪 Testing | 🔒 |
+| 💳 **Finanzas Familiares** | 🥚 Incubación | ⏳ |
+| 📦 **Alacena Virtual** | 🥚 Incubación | [🌐](https://github.com/ananapps799617/alacena-virtual-android) |
+| 🏗️ **Control de Obras** | 🔓 Open Source | [🌐](https://github.com/ananapps799617/control-de-obras) |
+
+<sub>🔒 Privado · 🌐 Público · ⏳ Próximamente</sub>
 
 ---
 
